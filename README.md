@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyadmurad44" alt="riyadmurad44" /></a> </p>
 
-- 🔭 I’m currently working on [Digital Wallet](https://github.com/RiyadMurad44/Digital_Wallet)
+<!-- - 🔭 I’m currently working on [Digital Wallet](https://github.com/RiyadMurad44/Digital_Wallet) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
