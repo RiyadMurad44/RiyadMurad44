@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Riyad</h1>
 <h3 align="center">A passionate Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadmurad44&label=Profile%20views&color=0e75b6&style=flat" alt="riyadmurad44" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyadmurad44" alt="riyadmurad44" /></a> </p>
 
 - 🔭 I’m currently working on [Digital Wallet](https://github.com/RiyadMurad44/Digital_Wallet)
@@ -20,8 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyadmurad44&show_icons=true&locale=en" alt="riyadmurad44" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadmurad44&" alt="riyadmurad44" /></p>
-
 <!--
 **RiyadMurad44/RiyadMurad44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,4 +31,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadmurad44&label=Profile%20views&color=0e75b6&style=flat" alt="riyadmurad44" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyadmurad44&show_icons=true&locale=en" alt="riyadmurad44" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadmurad44&" alt="riyadmurad44" /></p>
 -->
